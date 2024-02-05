@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Greenstone52/Greenstone52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,16 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 🔭 I’m currently working on **eatndrinkapp**
+
+- 🌱 I’m currently learning **Spring Framework, JWT,**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Greenstone52](https://github.com/Greenstone52)
+
+- 💬 Ask me about **Spring Framework, Java**
+
+- 📫 How to reach me **erenahmetyslts@gmail.com**
+
+- 📄 Know about my experiences [in/eren-ahmet-ye%C5%9Filta%C5%9F-473103226](in/eren-ahmet-ye%C5%9Filta%C5%9F-473103226)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
