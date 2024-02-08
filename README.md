@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Eren Ahmet Yeşiltaş</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on the project called **eatndrinkapp**
+- 🔭 I’m currently working on the project [eatndrinkapp](https://github.com/Greenstone52/eatndrinkapp)
 
-- 🌱 I’m currently learning **Spring Framework, Transfer Protocols and System Designing**
+- 🌱 I’m currently learning **Spring Framework, JWT,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Greenstone52](https://github.com/Greenstone52)
 
@@ -28,12 +28,11 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **erenahmetyslts@gmail.com**
 
-- 📄 Know about my experiences [in/eren-ahmet-ye%C5%9Filta%C5%9F-473103226](in/eren-ahmet-ye%C5%9Filta%C5%9F-473103226)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eren-ahmet-ye%c5%9filta%c5%9f-473103226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eren-ahmet-ye%c5%9filta%c5%9f-473103226/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eren-ahmet-yesiltas-473103226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren-ahmet-yesiltas-473103226/" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.greenstone52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.greenstone52" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/erenahmetyesiltas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="erenahmetyesiltas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
