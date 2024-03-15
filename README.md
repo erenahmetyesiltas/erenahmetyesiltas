@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the project [eatndrinkapp](https://github.com/Greenstone52/eatndrinkapp)
 
-- 🌱 I’m currently learning **Spring Framework, JWT, System Designing**
+- 🌱 I’m currently learning **Computer Networks, Microservices, System Designing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Greenstone52](https://github.com/Greenstone52)
 
