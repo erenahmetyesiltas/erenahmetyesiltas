@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the project [eatndrinkapp](https://github.com/Greenstone52/eatndrinkapp)
 
-- 🌱 I’m currently learning **Computer Networks, Microservices, System Designing**
+- 🌱 I’m currently learning **Computer Networks, Microservices, Software Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Greenstone52](https://github.com/Greenstone52)
 
 - 💬 Ask me about **Spring Framework, Java**
 
-- 📫 How to reach me **eayesiltasdev@gmail.com**
+- 📫 How to reach me **erenahmetyesiltas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
