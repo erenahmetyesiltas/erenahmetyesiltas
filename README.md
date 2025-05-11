@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Computer Networks, Microservices, Software Architecture**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Greenstone52](https://github.com/erenahmetyesiltas)
+- 👨‍💻 All of my projects are available at [https://github.com/erenahmetyesiltas](https://github.com/erenahmetyesiltas)
 
 - 💬 Ask me about **Spring Framework, Java**
 
