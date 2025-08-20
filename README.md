@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Eren Ahmet Yeşiltaş</h1>
-<h3 align="center">A passionate backend developer, network engineer candidate from Turkey</h3>
+<h3 align="center">A passionate computer engineer candidate from Turkey</h3>
 
 <!--- 🔭 I’m currently working on the project [eatndrinkapp](https://github.com/Greenstone52/eatndrinkapp) -->
 
