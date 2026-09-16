@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 <!--- 🔭 I’m currently working on the project [eatndrinkapp](https://github.com/Greenstone52/eatndrinkapp) -->
 
-- 🌱 I’m currently learning **Computer Networks, Microservices, Software Architecture**
+- 🌱 I’m currently improving myself on the fields which are **Computer Networks, Software Architecture, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/erenahmetyesiltas](https://github.com/erenahmetyesiltas)
 
-- 💬 Ask me about **Spring Framework, Java**
+- 💬 Ask me about **Spring Framework, Java, Networking & IoT**
 
 - 📫 How to reach me **erenahmetyslts@gmail.com**
 
